@@ -88,10 +88,6 @@
         <source>About</source>
         <translation>O programu</translation>
     </message>
-    <message id="id-app-launcher-name">
-        <source>Settings</source>
-        <translation>Nastavení</translation>
-    </message>
     <message id="id-charging-only">
         <source>Charging only</source>
         <translation>Pouze nabíjení</translation>

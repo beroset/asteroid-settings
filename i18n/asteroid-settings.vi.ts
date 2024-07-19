@@ -83,38 +83,39 @@
         <translation>Bluetooth</translation>
     </message>
     <message id="id-display-page">
-        <location filename="../src/qml/DisplayPage.qml" line="123"/>
+        <location filename="../src/qml/DisplayPage.qml" line="132"/>
         <location filename="../src/qml/main.qml" line="73"/>
         <source>Display</source>
         <translation>Hiển thị</translation>
     </message>
     <message id="id-brightness">
-        <location filename="../src/qml/DisplayPage.qml" line="55"/>
+        <location filename="../src/qml/DisplayPage.qml" line="61"/>
         <source>Brightness</source>
         <translation>Độ sáng</translation>
     </message>
     <message id="id-automatic-brightness">
-        <location filename="../src/qml/DisplayPage.qml" line="75"/>
+        <location filename="../src/qml/DisplayPage.qml" line="81"/>
         <source>Automatic brightness</source>
         <translation>Độ sáng tự động</translation>
     </message>
     <message id="id-always-on-display">
-        <location filename="../src/qml/DisplayPage.qml" line="84"/>
+        <location filename="../src/qml/DisplayPage.qml" line="90"/>
+        <location filename="../src/qml/NightstandPage.qml" line="149"/>
         <source>Always on Display</source>
         <translation>Màn hình luôn bật</translation>
     </message>
     <message id="id-burn-in-protection">
-        <location filename="../src/qml/DisplayPage.qml" line="94"/>
+        <location filename="../src/qml/DisplayPage.qml" line="103"/>
         <source>Burn in protection</source>
         <translation>Bảo vệ máy tính khỏi việc để lâu ngày</translation>
     </message>
     <message id="id-tilt-to-wake">
-        <location filename="../src/qml/DisplayPage.qml" line="105"/>
+        <location filename="../src/qml/DisplayPage.qml" line="114"/>
         <source>Tilt-to-wake</source>
         <translation>Nghiêng để đánh thức</translation>
     </message>
     <message id="id-tap-to-wake">
-        <location filename="../src/qml/DisplayPage.qml" line="114"/>
+        <location filename="../src/qml/DisplayPage.qml" line="123"/>
         <source>Tap-to-wake</source>
         <translation>Nhấn để đánh thức</translation>
     </message>
@@ -131,7 +132,7 @@
     </message>
     <message id="id-nightstand-page">
         <location filename="../src/qml/main.qml" line="79"/>
-        <location filename="../src/qml/NightstandPage.qml" line="165"/>
+        <location filename="../src/qml/NightstandPage.qml" line="188"/>
         <source>Nightstand</source>
         <translation>Đầu giường</translation>
     </message>
@@ -189,35 +190,30 @@
         <source>About</source>
         <translation>Giới thiệu</translation>
     </message>
-    <message id="id-app-launcher-name">
-        <location filename="asteroid-settings.desktop.h" line="6"/>
-        <source>Settings</source>
-        <translation>Cài đặt</translation>
-    </message>
     <message id="id-nightstand-enable">
-        <location filename="../src/qml/NightstandPage.qml" line="75"/>
+        <location filename="../src/qml/NightstandPage.qml" line="86"/>
         <source>Enable</source>
         <translation>Bật</translation>
     </message>
     <message id="id-nightstand-brightness">
-        <location filename="../src/qml/NightstandPage.qml" line="96"/>
+        <location filename="../src/qml/NightstandPage.qml" line="107"/>
         <source>Brightness</source>
         <oldsource>Nightstand Brightness</oldsource>
         <translation>Độ sáng</translation>
     </message>
     <message id="id-nightstand-delay">
-        <location filename="../src/qml/NightstandPage.qml" line="115"/>
+        <location filename="../src/qml/NightstandPage.qml" line="126"/>
         <source>Delay</source>
         <oldsource>Nightstand delay</oldsource>
         <translation>Trì hoãn</translation>
     </message>
     <message id="id-nightstand-custom-watchface">
-        <location filename="../src/qml/NightstandPage.qml" line="141"/>
+        <location filename="../src/qml/NightstandPage.qml" line="164"/>
         <source>Custom watchface</source>
         <translation>Mặt đồng hồ tuỳ chỉnh</translation>
     </message>
     <message id="id-nightstand-watchface">
-        <location filename="../src/qml/NightstandPage.qml" line="152"/>
+        <location filename="../src/qml/NightstandPage.qml" line="175"/>
         <source>Select watchface</source>
         <oldsource>select nightstand watchface</oldsource>
         <translation>Chọn mặt đồng hồ</translation>

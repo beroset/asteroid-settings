@@ -88,10 +88,6 @@
         <source>About</source>
         <translation>Hakkında</translation>
     </message>
-    <message id="id-app-launcher-name">
-        <source>Settings</source>
-        <translation>Ayarlar</translation>
-    </message>
     <message id="id-charging-only">
         <source>Charging only</source>
         <translation>Yalnızca şarj edim</translation>

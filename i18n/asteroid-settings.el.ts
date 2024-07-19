@@ -88,10 +88,6 @@
         <source>About</source>
         <translation>Σχετικά</translation>
     </message>
-    <message id="id-app-launcher-name">
-        <source>Settings</source>
-        <translation>Ρυθμίσεις</translation>
-    </message>
     <message id="id-charging-only">
         <source>Charging only</source>
         <translation>Φόρτιση μόνο</translation>

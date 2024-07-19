@@ -88,10 +88,6 @@
         <source>About</source>
         <translation>Az okosóráról</translation>
     </message>
-    <message id="id-app-launcher-name">
-        <source>Settings</source>
-        <translation>Beállítások</translation>
-    </message>
     <message id="id-charging-only">
         <source>Charging only</source>
         <translation>Csak töltés</translation>

@@ -88,10 +88,6 @@
         <source>About</source>
         <translation>பற்றி</translation>
     </message>
-    <message id="id-app-launcher-name">
-        <source>Settings</source>
-        <translation>அமைவுகள்</translation>
-    </message>
     <message id="id-charging-only">
         <source>Charging only</source>
         <translation>மின்னினைப்பில் மட்டும்</translation>
